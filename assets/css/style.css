@@ -1,0 +1,39 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;900&display=swap');
+
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html
+{
+    font-size: 62.5%;
+}
+
+header
+{
+    background-image: url("../img/estrada.png");
+    background-size: cover;
+    height: 100vh;
+    
+}
+
+h1
+{
+    color: #FFF;
+    font-size: 5rem;
+    font-weight: 900;
+    padding-top: 64.1rem;
+    padding-left: 34.3rem;
+    font-family: 'Poppins';
+}
+
+span
+{
+    color: #FFF;
+    font-size: 4rem;
+    font-weight: 900;
+}
